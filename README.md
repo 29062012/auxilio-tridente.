@@ -1,1 +1,1 @@
-# auxilio-tridente.
+# auxilio-tridente
